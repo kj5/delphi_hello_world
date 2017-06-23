@@ -26,7 +26,7 @@ implementation
 
 procedure TMainForm.btn_WitajClick(Sender: TObject);
 begin
-  ShowMessage('Witaj');
+  ShowMessage('Witaj Git 2');
 end;
 
 end.
